@@ -3,7 +3,7 @@ import MainContent from './components/MainContent';
 
 function App() {
   return (
-    <div className="container">
+    <div className="page__wrapper">
       <Navigation />
       <MainContent />
     </div>
